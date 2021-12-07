@@ -1,0 +1,8 @@
+Nothing to compile
+Compiling 1 file with 0.7.3
+Successfully submitted source code for contract
+contracts/Token.sol:Token at 0xEd4a531962528CF84c95D8dc2e9FAD41c172dcb5
+for verification on Etherscan. Waiting for verification result...
+
+Successfully verified contract Token on Etherscan.
+https://ropsten.etherscan.io/address/0xEd4a531962528CF84c95D8dc2e9FAD41c172dcb5#code

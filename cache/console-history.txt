@@ -1,0 +1,6 @@
+.exit
+(await ethers.provider.getBalance(accounts[0])).toString()
+accounts = await ethers.provider.listAccounts()
+.exit
+exit
+accounts = await ethers.provider.listAccounts()
